@@ -1,0 +1,29 @@
+appveyor-vs:
+  definitions:
+    - CMAKE_CXX_FLAGS: '/EHsc- /GR-'
+
+appveyor-msys:
+  definitions:
+    - CMAKE_CXX_FLAGS: '-fno-exceptions -fno-rtti'
+
+circle-intel:
+  definitions:
+    - CMAKE_CXX_FLAGS: '-fno-exceptions -fno-rtti'
+
+# PGI does not understand -Wall -Wextra -Wpedantic
+circle-pgi:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+travis-linux:
+  definitions:
+    - CMAKE_CXX_FLAGS: '-fno-exceptions -fno-rtti'
+
+travis-osx:
+  definitions:
+    - CMAKE_CXX_FLAGS: '-fno-exceptions -fno-rtti'
+
+local:
+  definitions:
+    - CMAKE_CXX_FLAGS: '-fno-exceptions -fno-rtti'

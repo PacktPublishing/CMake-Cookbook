@@ -1,0 +1,18 @@
+targets:
+  - test
+
+# No ASan on Windows
+appveyor-vs:
+  skip_generators:
+    - 'Visual Studio 15 2017 Win64'
+
+appveyor-msys:
+  skip_generators:
+    - 'MSYS Makefiles'
+    - 'Ninja'
+
+# see: https://github.com/dev-cafe/cmake-cookbook/issues/481
+travis-osx:
+  failing_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'

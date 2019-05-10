@@ -1,0 +1,39 @@
+targets:
+  - test
+
+# No ASan on Windows
+appveyor-vs:
+  skip_generators:
+    - 'Visual Studio 15 2017 Win64'
+
+# No ASan on Windows
+appveyor-msys:
+  skip_generators:
+    - 'MSYS Makefiles'
+    - 'Ninja'
+
+# for 'Unix Makefiles' see:
+# https://github.com/dev-cafe/cmake-cookbook/issues/481
+travis-linux:
+  failing_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+# for 'Unix Makefiles' see:
+# https://github.com/dev-cafe/cmake-cookbook/issues/481
+travis-osx:
+  failing_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+# ASan not supported by ifort
+circle-intel:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+# error stop is Fortran2008 and PGI is not compliant
+circle-pgi:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'

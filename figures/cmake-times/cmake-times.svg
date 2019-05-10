@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="cmake-times.svg"
+   inkscape:export-filename="/home/roberto/Workspace/robertodr/cmake-cookbook/figures/cmake-times2.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker30441"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path30439"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29967"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path29965"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker26992"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path26990"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker25539"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path25537" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker24303"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24301" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker20949"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path20947" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19101"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19099" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17995"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path17993"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16873"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16871" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14783"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path14781"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14147"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path14145"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13195"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13193" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12933"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path12931"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11885"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11883"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11263"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11261"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10833"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10831"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9298"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9296" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6645"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6643" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6303"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path6061"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1504"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1502"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker20563"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#00ffe9;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#00ffe9;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path20561"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker18981"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff00e9;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#ff00e9;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18979"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker18335"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path18333"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ff65;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#00ff00;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6518"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#0000ff;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6516"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5318"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5316"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5236"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5234"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5166"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5164"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4635"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4956"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4954"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4629"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4617"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff7800;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#ff7800;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff0000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#0000ff;fill-opacity:0.49019608;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:0.49019608"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7142-20"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7140-2" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.2967182"
+     inkscape:cx="-1738.0671"
+     inkscape:cy="394.56998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="58"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline"
+     transform="translate(0,-87)">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26992)"
+       d="m -290.63747,172.89022 -27.91211,30.92186"
+       id="path9037"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20499"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion20501"><rect
+           id="rect20503"
+           width="150.30969"
+           height="64.044998"
+           x="1407.683"
+           y="-184.52115" /></flowRegion><flowPara
+         id="flowPara20505" /></flowRoot>    <rect
+       rx="8.2112064"
+       ry="8.2112064"
+       y="7.0377007"
+       x="-474.13928"
+       height="51.032619"
+       width="254.53215"
+       id="rect8503"
+       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:0.28985506;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24303)"
+       d="m -452.57154,58.29413 v 72.33265 72.33264"
+       id="path24299"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffb4b4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4504-3-7"
+       width="84"
+       height="28.999998"
+       x="-445.64297"
+       y="114.65116"
+       ry="8.2112064"
+       rx="8.2112064"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-403.69672"
+       y="127.01585"
+       id="text16381-3"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         id="tspan16379-6"
+         x="-403.69672"
+         y="127.01585"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332">Scripts for native</tspan><tspan
+         sodipodi:role="line"
+         x="-403.69672"
+         y="137.59918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1362">build tools</tspan></text>
+    <rect
+       rx="8.2112064"
+       ry="8.2112064"
+       y="20.7208"
+       x="-466.28079"
+       height="28.999998"
+       width="84"
+       id="rect1366"
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.49019608;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text1372"
+       y="38.377201"
+       x="-424.41516"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan1370"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="38.377201"
+         x="-424.41516"
+         sodipodi:role="line">CMakeLists.txt</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d2d2ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1396"
+       width="84"
+       height="28.999998"
+       x="-466.28079"
+       y="205.86745"
+       ry="8.2112064"
+       rx="8.2112064"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-424.33453"
+       y="222.70271"
+       id="text1400"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-424.33453"
+         y="222.70271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1398">Source package</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#00ff00;fill-opacity:0.21867882;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1426"
+       width="84"
+       height="28.999998"
+       x="-167.78317"
+       y="143.98557"
+       ry="8.2112064"
+       rx="8.2112064"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-125.81006"
+       y="161.64194"
+       id="text1430"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-125.81006"
+         y="161.64194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1428">Dashboard</tspan></text>
+    <text
+       id="text8455"
+       y="78.290047"
+       x="-349.31671"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan8453"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="78.290047"
+         x="-349.31671"
+         sodipodi:role="line">C</tspan></text>
+    <rect
+       rx="8.2112064"
+       ry="8.2112064"
+       y="205.86748"
+       x="-374.49661"
+       height="28.999998"
+       width="84"
+       id="rect1402"
+       style="display:inline;opacity:1;fill:#d2d2ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text1406"
+       y="222.70274"
+       x="-332.68677"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan1404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="222.70274"
+         x="-332.68677"
+         sodipodi:role="line">Binary package</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.49019608;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1408"
+       width="84"
+       height="28.999998"
+       x="-374.49661"
+       y="267.49896"
+       ry="8.2112064"
+       rx="8.2112064"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-332.6868"
+       y="284.33472"
+       id="text1412"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-332.6868"
+         y="284.33472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1410">Installed package</tspan></text>
+    <g
+       id="g28769"
+       transform="translate(15.470603)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101">
+      <g
+         transform="translate(133.03413,-123.26474)"
+         id="g28752">
+        <rect
+           rx="8.2112064"
+           ry="8.2112064"
+           y="205.61792"
+           x="-316.2879"
+           height="28.999998"
+           width="84"
+           id="rect1414"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text1418"
+           y="223.27429"
+           x="-274.49463"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan1416"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             y="223.27429"
+             x="-274.49463"
+             sodipodi:role="line">Installed files</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g28757"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101">
+      <rect
+         rx="8.2112064"
+         ry="8.2112064"
+         y="143.98558"
+         x="-316.28793"
+         height="28.999998"
+         width="84"
+         id="rect1420"
+         style="display:inline;opacity:1;fill:#ffb4b4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1424"
+         y="160.82133"
+         x="-274.49463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="160.82133"
+           x="-274.49463"
+           sodipodi:role="line">Build targets</tspan></text>
+    </g>
+    <g
+       id="g1479"
+       transform="translate(-572.20094,-349.94292)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101">
+      <rect
+         rx="8.2112064"
+         ry="8.2112064"
+         y="370.66373"
+         x="255.91302"
+         height="28.999998"
+         width="84"
+         id="rect1382"
+         style="display:inline;opacity:1;fill:none;fill-opacity:0.49019608;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1386"
+         y="388.32013"
+         x="297.84274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1384"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="388.32013"
+           x="297.84274"
+           sodipodi:role="line">Source files</tspan></text>
+    </g>
+    <g
+       id="g28763"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101">
+      <rect
+         style="display:inline;opacity:1;fill:#ffb4b4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1388"
+         width="84"
+         height="28.999998"
+         x="-316.2879"
+         y="82.35318"
+         ry="8.2112064"
+         rx="8.2112064" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-274.30856"
+         y="94.717896"
+         id="text1392"><tspan
+           sodipodi:role="line"
+           x="-274.30856"
+           y="94.717896"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan1390">Generated</tspan><tspan
+           id="tspan1394"
+           sodipodi:role="line"
+           x="-274.30856"
+           y="105.30124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;text-anchor:middle;stroke-width:0.26458332">source files</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6641"
+       d="M -274.28791,49.98136 V 79.5928"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12933)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-267.70447"
+       y="68.937935"
+       id="text8475"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-267.70447"
+         y="68.937935"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8473">C</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.49019608;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8492"
+       width="95.949242"
+       height="104.1493"
+       x="-322.63791"
+       y="13.841534"
+       ry="8.2112064"
+       rx="8.2112064"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6645)"
+       d="m -274.28791,118.25204 v 22.72412"
+       id="path9021"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text9025"
+       y="132.43791"
+       x="-267.70447"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan9023"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="132.43791"
+         x="-267.70447"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       id="text9041"
+       y="191.35774"
+       x="-292.74747"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan9039"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="191.35774"
+         x="-292.74747"
+         sodipodi:role="line">P</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9045"
+       d="m -332.49661,235.19029 v 29.61144"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6645)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-324.32617"
+       y="254.14633"
+       id="text9049"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-324.32617"
+         y="254.14633"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan9047">PI</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9298)"
+       d="m -232.17658,158.48556 h 29.61144"
+       id="path9294"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text9788"
+       y="154.83647"
+       x="-219.93723"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan9786"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="154.83647"
+         x="-219.93723"
+         sodipodi:role="line">T</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path11255"
+       d="m -199.89721,158.48556 h 29.61144"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11263)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-187.65756"
+       y="154.83647"
+       id="text11259"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-187.65756"
+         y="154.83647"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan11257">D</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13195)"
+       d="M -424.59847,50.02703 V 79.63847"
+       id="path13187"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text13191"
+       y="68.983528"
+       x="-418.01501"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan13189"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="68.983528"
+         x="-418.01501"
+         sodipodi:role="line">C</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path14139"
+       d="m -424.59847,82.3064 v 29.61144"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14147)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-418.01501"
+       y="101.26319"
+       id="text14143"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-418.01501"
+         y="101.26319"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan14141">G</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path14779"
+       d="m -388.74887,49.69842 75.62573,31.81253"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14783)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16873)"
+       d="m -363.38968,140.73793 44.83314,9.34584"
+       id="path16869"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17991"
+       d="m -364.37028,116.5562 45.88679,-10.80963"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker17995)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-349.31671"
+       y="107.39463"
+       id="text19085"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-349.31671"
+         y="107.39463"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan19083">B</tspan></text>
+    <text
+       id="text19089"
+       y="139.6743"
+       x="-349.31671"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan19087"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="139.6743"
+         x="-349.31671"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       id="text26474"
+       y="210.10255"
+       x="-167.94887"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan26472"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="210.10255"
+         x="-167.94887"
+         sodipodi:role="line">C</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="220.68588"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26476">G</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="231.26923"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26478">B</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="241.85254"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26480">T</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="252.43588"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26482">D</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="263.01923"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26488">P</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="273.60254"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26484">I</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="284.18588"
+         x="-167.94887"
+         sodipodi:role="line"
+         id="tspan26486">PI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-148.85361"
+       y="210.25139"
+       id="text26506"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-148.85361"
+         y="210.25139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan26490">CMake time</tspan><tspan
+         id="tspan26492"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="220.83472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">Generation time</tspan><tspan
+         id="tspan26494"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="231.41806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">Build time</tspan><tspan
+         id="tspan26496"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="242.00139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">CTest time</tspan><tspan
+         id="tspan26498"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="252.58472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">CDash time</tspan><tspan
+         id="tspan26500"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="263.16803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">CPack time</tspan><tspan
+         id="tspan26502"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="273.75137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">Install time</tspan><tspan
+         id="tspan26504"
+         sodipodi:role="line"
+         x="-148.85361"
+         y="284.33472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;stroke-width:0.26458332">Package install time</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-198.40833"
+       y="36.735958"
+       id="text26969"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-198.40833"
+         y="36.735958"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan26967">Project</tspan></text>
+    <text
+       id="text26975"
+       y="69.069054"
+       x="-194.45364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan26973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="69.069054"
+         x="-194.45364"
+         sodipodi:role="line">Source files</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path29963"
+       d="m -226.24298,96.75475 h 55.52352"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29967)"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30437"
+       d="m -240.13703,143.9617 75.35153,-31.65499"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker30441)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101" />
+    <text
+       id="text32016"
+       y="115.6785"
+       x="-187.65756"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         id="tspan32014"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="115.6785"
+         x="-187.65756"
+         sodipodi:role="line">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-445.14981"
+       y="191.35774"
+       id="text32362"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-ydpi="300.0101"><tspan
+         sodipodi:role="line"
+         x="-445.14981"
+         y="191.35774"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan32360">P</tspan></text>
+    <text
+       inkscape:export-ydpi="300.0101"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-187.65756"
+       y="92.395164"
+       id="text32369"><tspan
+         sodipodi:role="line"
+         x="-187.65756"
+         y="92.395164"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan32367">I</tspan></text>
+    <path
+       inkscape:export-ydpi="300.0101"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14147)"
+       d="m -424.59847,143.66784 c -0.41889,27.94153 32.18894,28.03069 32.45518,2.71253"
+       id="path194"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-ydpi="300.0101"
+       inkscape:export-xdpi="300.0101"
+       inkscape:export-filename="/home/bast/tmp/times.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-408.05511"
+       y="175.12692"
+       id="text198"><tspan
+         sodipodi:role="line"
+         x="-408.05511"
+         y="175.12692"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Hack;-inkscape-font-specification:'Hack Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan196">C</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Arrows"
+     style="display:inline"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="368.64542"
+       y="-42.596439"
+       id="text20497"><tspan
+         sodipodi:role="line"
+         id="tspan20495"
+         x="368.64542"
+         y="-36.353928"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+  <g
+     inkscape:label="Boxes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-87)" />
+</svg>

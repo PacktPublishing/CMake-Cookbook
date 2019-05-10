@@ -1,0 +1,30 @@
+appveyor-vs:
+  definitions:
+    - BOOST_ROOT: 'C:\Deps\boost_1_67_0'
+    - CMAKE_CXX_FLAGS: '-DBOOST_ALL_NO_LIB /EHsc'
+    - Boost_USE_STATIC_LIBS: 'ON'
+    - CMAKE_BUILD_TYPE: 'Release'
+    - CMAKE_CONFIGURATION_TYPES: 'Release'
+
+appveyor-msys:
+  definitions:
+    - CMAKE_BUILD_TYPE: 'Release'
+    - Boost_USE_STATIC_LIBS: 'ON'
+    - CMAKE_CXX_FLAGS: '-D_hypot=hypot'
+
+# CMake cannot find the Python library
+circle-pgi:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+travis-linux:
+  definitions:
+    - BOOST_ROOT: '$HOME/Deps/boost_1.59.0'
+
+travis-osx:
+  definitions:
+    - BOOST_ROOT: '/usr/local/Cellar/boost/1.67.0_1'
+
+targets:
+  - test

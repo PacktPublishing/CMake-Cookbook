@@ -1,0 +1,11 @@
+module version
+
+  implicit none
+
+  integer, parameter :: PROJECT_VERSION_MAJOR = @PROJECT_VERSION_MAJOR@
+  integer, parameter :: PROJECT_VERSION_MINOR = @PROJECT_VERSION_MINOR@
+  integer, parameter :: PROJECT_VERSION_PATCH = @PROJECT_VERSION_PATCH@
+
+  character(*), parameter :: PROJECT_VERSION = "v@PROJECT_VERSION@"
+
+end module

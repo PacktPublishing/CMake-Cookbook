@@ -1,0 +1,19 @@
+targets:
+  - test
+
+# No TSan on Windows
+appveyor-vs:
+  skip_generators:
+    - 'Visual Studio 15 2017 Win64'
+
+# No TSan on Windows
+appveyor-msys:
+  skip_generators:
+    - 'MSYS Makefiles'
+    - 'Ninja'
+
+# OpenMP does not work with clang
+travis-osx:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'

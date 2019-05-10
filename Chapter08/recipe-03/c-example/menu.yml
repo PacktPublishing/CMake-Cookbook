@@ -1,0 +1,21 @@
+appveyor-vs:
+  definitions:
+    - CMAKE_DISABLE_FIND_PACKAGE_FFTW3: 'ON'
+
+appveyor-msys:
+  definitions:
+    - CMAKE_DISABLE_FIND_PACKAGE_FFTW3: 'ON'
+
+travis-linux:
+  definitions:
+    - CMAKE_DISABLE_FIND_PACKAGE_FFTW3: 'ON'
+
+travis-osx:
+  definitions:
+    - CMAKE_DISABLE_FIND_PACKAGE_FFTW3: 'ON'
+
+local:
+  definitions:
+    - CMAKE_DISABLE_FIND_PACKAGE_FFTW3: 'ON'
+  env:
+    - VERBOSE_OUTPUT: 'ON'

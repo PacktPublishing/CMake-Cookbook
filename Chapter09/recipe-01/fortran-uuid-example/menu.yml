@@ -1,0 +1,26 @@
+appveyor-vs:
+  skip_generators:
+    - 'Visual Studio 15 2017 Win64'
+
+appveyor-msys:
+  failing_generators:
+    - 'MSYS Makefiles'
+    - 'Ninja'
+
+# Fails to generate imported target for UUID
+circle-pgi:
+  skip_generators:
+    - 'Unix Makefiles'
+    - 'Ninja'
+
+travis-linux:
+  failing_generators:
+    - 'Ninja'
+
+travis-osx:
+  failing_generators:
+    - 'Ninja'
+
+local:
+  failing_generators:
+    - 'Ninja'

@@ -1,0 +1,65 @@
+appveyor-vs:
+  definitions:
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - CMAKE_CONFIGURATION_TYPES: 'Debug'
+    - CMAKE_TOOLCHAIN_FILE: 'C:\tools\vcpkg\scripts\buildsystems\vcpkg.cmake'
+    - SITE: "Appveyor Win64"
+  env:
+    - 'DIE_HARD': 'True'
+
+appveyor-msys:
+  definitions:
+    - CMAKE_C_COMPILER: 'gcc'
+    - CMAKE_CXX_COMPILER: 'g++'
+    - CMAKE_Fortran_COMPILER: 'gfortran'
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - SITE: "Appveyor Win64"
+  env:
+    - 'DIE_HARD': 'True'
+
+circle-intel:
+  definitions:
+    - CMAKE_C_COMPILER: 'icc'
+    - CMAKE_CXX_COMPILER: 'icpc'
+    - CMAKE_Fortran_COMPILER: 'ifort'
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - SITE: 'Circle CI Ubuntu 16.04'
+  env:
+    - 'DIE_HARD': 'True'
+
+circle-pgi:
+  definitions:
+    - CMAKE_C_COMPILER: 'pgcc'
+    - CMAKE_CXX_COMPILER: 'pgc++'
+    - CMAKE_Fortran_COMPILER: 'pgfortran'
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - SITE: 'Circle CI Ubuntu 16.04'
+  env:
+    - 'DIE_HARD': 'True'
+      
+travis-linux:
+  definitions:
+    - CMAKE_C_COMPILER: 'gcc-7'
+    - CMAKE_CXX_COMPILER: 'g++-7'
+    - CMAKE_Fortran_COMPILER: 'gfortran-7'
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - SITE: "Travis Ubuntu 14.04"
+  env:
+    - 'DIE_HARD': 'True'
+
+travis-osx:
+  definitions:
+    - CMAKE_C_COMPILER: 'clang'
+    - CMAKE_CXX_COMPILER: 'clang++'
+    - CMAKE_Fortran_COMPILER: 'gfortran'
+    - CMAKE_BUILD_TYPE: 'Debug'
+    - SITE: "Travis macOS 10.12"
+  env:
+    - 'DIE_HARD': 'True'
+
+local:
+  definitions:
+    - CMAKE_C_COMPILER: 'gcc'
+    - CMAKE_CXX_COMPILER: 'g++'
+    - CMAKE_Fortran_COMPILER: 'gfortran'
+    - CMAKE_BUILD_TYPE: 'Debug'

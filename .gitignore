@@ -1,23 +1,35 @@
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Folder config file
-Desktop.ini
+# Precompiled Headers
+*.gch
+*.pch
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Fortran module files
+*.mod
 
-# Windows shortcuts
-*.lnk
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# =========================
-# Operating System Files
-# =========================
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+*build*/
+
+# Python stuff
+*.pyc
+venv/
