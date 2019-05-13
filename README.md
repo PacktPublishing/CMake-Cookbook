@@ -44,13 +44,15 @@ With the following software and hardware list you can run all code files present
 | 1-15 | CMake >= 3.5 g++ supporting C++11 gcc supporting C99 gfortran Windows: msys2 installer or Visual Studio | Windows, Mac OS X, and Linux (Any) |
 | 2 | Eigen 3.3.4 | Windows, Mac OS X, and Linux (Any) |
 | 3 | Python interpreter Python development libraries: BLAS LAPACK MPI library Eigen 3.3.4 Boost 1.59 ZeroMQ | Windows, Mac OS X, and Linux (Any) |
-| 4 | Boost 1.54 | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
+| 4 | Boost 1.54 Catch2 Google Test | Windows, Mac OS X, and Linux (Any) |
+| 5 | Python interpreter Python development libraries BLAS LAPACK | Windows, Mac OS X, and Linux (Any) |
+| 6 | Python interpreter git | Windows, Mac OS X, and Linux (Any) |
+| 8 | Boost 1.54 FFTW3 Eigen 3.3.4 | Windows, Mac OS X, and Linux (Any) |
+| 9 | LAPACK | Windows, Mac OS X, and Linux (Any) |
+| 11 | CFFI Anaconda pybind11 | Windows, Mac OS X, and Linux (Any) |
+| 12 | Doxygen Sphinx Breathe | Windows, Mac OS X, and Linux (Any) |
+| 13 | MXE Visual Studio | Windows, Mac OS X, and Linux (Any) |
+| 14 | CDash | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/CMakeCookbook_ColorImages.pdf).
 
