@@ -4,12 +4,12 @@
 
 This is the code repository for [CMake Cookbook](https://www.packtpub.com/application-development/cmake-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788470711 ), published by Packt.
 
-**If you are a software developer keen to manage build systems using CMake or would like to understand and modify CMake code written by others, this book is for you. A basic knowledge of C++, C, or Fortran is required to understand the topics covered in this book.**
+**Building, testing, and packaging modular software with modern CMake**
 
 ## What is this book about?
 CMake is cross-platform, open-source software for managing the build process in a portable fashion. This book features a collection of recipes and building blocks with tips and techniques for working with CMake, CTest, CPack, and CDash.
 
-* This book covers the following exciting features:
+This book covers the following exciting features:
 * Configure, build, test, and install code projects using CMake 
 * Detect operating systems, processors, libraries, files, and programs for conditional compilation 
 * Increase the portability of your code 
@@ -34,6 +34,9 @@ project(recipe-01 LANGUAGES CXX)
 add_executable(hello-world hello-world.cpp)
 ```
 
+**Following is what you need for this book:**
+If you are a software developer keen to manage build systems using CMake or would like to understand and modify CMake code written by others, this book is for you. A basic knowledge of C++, C, or Fortran is required to understand the topics covered in this book.
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
@@ -56,7 +59,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Radovan Bast** works at the High Performance Computing Group at UiT - The Arctic University of Norway in Tromsø and leads the CodeRefinery project. He has a PhD in theoretical chemistry and contributes to a number of quantum chemistry programs as a code developer. He enjoys learning new programming languages and techniques, and teaching programming to students and researchers. He got in touch with CMake in 2008 and has ported a number of research codes and migrated a number of communities to CMake since then.
 
 **Roberto Di Remigio** is a postdoctoral fellow in theoretical chemistry at UiT - The Arctic University of Norway in Tromsø, Norway and Virginia Tech, USA. He is currently working on stochastic methods and solvation models. He is a developer of the PCMSolver library and the Psi4 open source quantum chemistry program. He contributes or has contributed to the development of popular quantum chemistry codes and libraries: DIRAC, MRCPP, DALTON, LSDALTON, XCFun, and ReSpect. He usually programs in C++ and Fortran.
-
 
 
 ### Suggestions and Feedback
