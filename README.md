@@ -1,174 +1,65 @@
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/dev-cafe/cmake-cookbook/master/LICENSE)
-
-[![Travis](https://travis-ci.org/dev-cafe/cmake-cookbook.svg?branch=master)](https://travis-ci.org/dev-cafe/cmake-cookbook)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/fvmidu9lcqvy52g8?svg=true)](https://ci.appveyor.com/project/bast/cmake-cookbook)
-[![CircleCI](https://circleci.com/gh/dev-cafe/cmake-cookbook.svg?style=svg)](https://circleci.com/gh/dev-cafe/cmake-cookbook)
-
-[![GitHub issues](https://img.shields.io/github/issues/dev-cafe/cmake-cookbook.svg?style=flat-square)](https://github.com/dev-cafe/cmake-cookbook/issues)
-[![GitHub forks](https://img.shields.io/github/forks/dev-cafe/cmake-cookbook.svg?style=flat-square)](https://github.com/dev-cafe/cmake-cookbook/network)
-[![GitHub stars](https://img.shields.io/github/stars/dev-cafe/cmake-cookbook.svg?style=flat-square)](https://github.com/dev-cafe/cmake-cookbook/stargazers)
-
-
 # CMake Cookbook
 
-This repository collects sources for the recipes contained in the
-[CMake Cookbook](https://www.packtpub.com/application-development/cmake-cookbook)
-published by Packt and authored by [Radovan Bast](https://github.com/bast) and
-[Roberto Di Remigio](https://github.com/robertodr)
+<a href="https://www.packtpub.com/application-development/cmake-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788470711 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08515.png" alt="CMake Cookbook" height="256px" align="right"></a>
 
-- [Contributing](.github/CONTRIBUTING.md)
-- [Testing](testing/README.md)
+This is the code repository for [CMake Cookbook](https://www.packtpub.com/application-development/cmake-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788470711 ), published by Packt.
 
+**If you are a software developer keen to manage build systems using CMake or would like to understand and modify CMake code written by others, this book is for you. A basic knowledge of C++, C, or Fortran is required to understand the topics covered in this book.**
 
-## Table of contents
+## What is this book about?
+CMake is cross-platform, open-source software for managing the build process in a portable fashion. This book features a collection of recipes and building blocks with tips and techniques for working with CMake, CTest, CPack, and CDash.
 
+* This book covers the following exciting features:
+* Configure, build, test, and install code projects using CMake 
+* Detect operating systems, processors, libraries, files, and programs for conditional compilation 
+* Increase the portability of your code 
+* Refactor a large codebase into modules with the help of CMake 
+* Build multi-language projects 
+* Know where and how to tweak CMake configuration files written by somebody else 
+* Package projects for distribution 
+* Port projects to CMake 
 
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788470710) today!
 
-### [Chapter 1: From a Simple Executable to Libraries](chapter-01/README.md)
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
 
-- [1. Compiling a single source file into an executable](chapter-01/recipe-01/README.md)
-- [2. Switching generators](chapter-01/recipe-02/README.md)
-- [3. Building and linking static and shared libraries](chapter-01/recipe-03/README.md)
-- [4. Controlling compilation with conditionals](chapter-01/recipe-04/README.md)
-- [5. Presenting options to the user](chapter-01/recipe-05/README.md)
-- [6. Specifying the compiler](chapter-01/recipe-06/README.md)
-- [7. Switching the build type](chapter-01/recipe-07/README.md)
-- [8. Controlling compiler flags](chapter-01/recipe-08/README.md)
-- [9. Setting the standard for the language](chapter-01/recipe-09/README.md)
-- [10. Using control flow constructs](chapter-01/recipe-10/README.md)
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
 
+The code will look like the following:
+```
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+project(recipe-01 LANGUAGES CXX)
+add_executable(hello-world hello-world.cpp)
+```
 
-### [Chapter 2: Detecting the Environment](chapter-02/README.md)
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+### Software and Hardware List
+| Chapter | Software required | OS required |
+| -------- | ------------------------------------ | ----------------------------------- |
+| 1-15 | CMake >= 3.5 g++ supporting C++11 gcc supporting C99 gfortran Windows: msys2 installer or Visual Studio | Windows, Mac OS X, and Linux (Any) |
+| 2 | Eigen 3.3.4 | Windows, Mac OS X, and Linux (Any) |
+| 3 | Python interpreter Python development libraries: BLAS LAPACK MPI library Eigen 3.3.4 Boost 1.59 ZeroMQ | Windows, Mac OS X, and Linux (Any) |
+| 4 | Boost 1.54 | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
+|  |  | Windows, Mac OS X, and Linux (Any) |
 
-- [1. Discovering the operating system](chapter-02/recipe-01/README.md)
-- [2. Dealing with platform-dependent source code](chapter-02/recipe-02/README.md)
-- [3. Dealing with compiler-dependent source code](chapter-02/recipe-03/README.md)
-- [4. Discovering the host processor architecture](chapter-02/recipe-04/README.md)
-- [5. Discovering the host processor instruction set](chapter-02/recipe-05/README.md)
-- [6. Enabling vectorization for the Eigen library](chapter-02/recipe-06/README.md)
-
-
-### [Chapter 3: Detecting External Libraries and Programs](chapter-03/README.md)
-
-- [1. Detecting the Python interpreter](chapter-03/recipe-01/README.md)
-- [2. Detecting the Python library](chapter-03/recipe-02/README.md)
-- [3. Detecting Python modules and packages](chapter-03/recipe-03/README.md)
-- [4. Detecting the BLAS and LAPACK math libraries](chapter-03/recipe-04/README.md)
-- [5. Detecting the OpenMP parallel environment](chapter-03/recipe-05/README.md)
-- [6. Detecting the MPI parallel environment](chapter-03/recipe-06/README.md)
-- [7. Detecting the Eigen library](chapter-03/recipe-07/README.md)
-- [8. Detecting the Boost libraries](chapter-03/recipe-08/README.md)
-- [9. Detecting external libraries: I. Using `pkg-config`](chapter-03/recipe-09/README.md)
-- [10. Detecting external libraries: II. Writing a find-module](chapter-03/recipe-10/README.md)
-
-
-### [Chapter 4: Creating and Running Tests](chapter-04/README.md)
-
-- [1. Creating a simple unit test](chapter-04/recipe-01/README.md)
-- [2. Defining a unit test using the Catch2 library](chapter-04/recipe-02/README.md)
-- [3. Defining a unit test and linking against Google Test](chapter-04/recipe-03/README.md)
-- [4. Defining a unit test and linking against Boost test](chapter-04/recipe-04/README.md)
-- [5. Using dynamic analysis to detect memory defects](chapter-04/recipe-05/README.md)
-- [6. Testing expected failures](chapter-04/recipe-06/README.md)
-- [7. Using timeouts for long tests](chapter-04/recipe-07/README.md)
-- [8. Running tests in parallel](chapter-04/recipe-08/README.md)
-- [9. Running a subset of tests](chapter-04/recipe-09/README.md)
-- [10. Using test fixtures](chapter-04/recipe-10/README.md)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/CMakeCookbook_ColorImages.pdf).
 
 
-### [Chapter 5: Configure-time and Build-time Operations](chapter-05/README.md)
+## Get to Know the Author
+**Radovan Bast** works at the High Performance Computing Group at UiT - The Arctic University of Norway in Tromsø and leads the CodeRefinery project. He has a PhD in theoretical chemistry and contributes to a number of quantum chemistry programs as a code developer. He enjoys learning new programming languages and techniques, and teaching programming to students and researchers. He got in touch with CMake in 2008 and has ported a number of research codes and migrated a number of communities to CMake since then.
 
-- [1. Using platform-independent file operations](chapter-05/recipe-01/README.md)
-- [2. Running a custom command at configure time](chapter-05/recipe-02/README.md)
-- [3. Running a custom command at build time: I. Using `add_custom_command`](chapter-05/recipe-03/README.md)
-- [4. Running a custom command at build time: II. Using `add_custom_target`](chapter-05/recipe-04/README.md)
-- [5. Running custom commands for specific targets at build time](chapter-05/recipe-05/README.md)
-- [6. Probing compilation and linking](chapter-05/recipe-06/README.md)
-- [7. Probing compiler flags](chapter-05/recipe-07/README.md)
-- [8. Probing execution](chapter-05/recipe-08/README.md)
-- [9. Fine-tuning configuration and compilation with generator expressions](chapter-05/recipe-09/README.md)
+**Roberto Di Remigio** is a postdoctoral fellow in theoretical chemistry at UiT - The Arctic University of Norway in Tromsø, Norway and Virginia Tech, USA. He is currently working on stochastic methods and solvation models. He is a developer of the PCMSolver library and the Psi4 open source quantum chemistry program. He contributes or has contributed to the development of popular quantum chemistry codes and libraries: DIRAC, MRCPP, DALTON, LSDALTON, XCFun, and ReSpect. He usually programs in C++ and Fortran.
 
 
-### [Chapter 6: Generating Source Code](chapter-06/README.md)
 
-- [1. Generating sources at configure time](chapter-06/recipe-01/README.md)
-- [2. Generating source code at configure time using Python](chapter-06/recipe-02/README.md)
-- [3. Generating source code at build time using Python](chapter-06/recipe-03/README.md)
-- [4. Recording the project version information for reproducibility](chapter-06/recipe-04/README.md)
-- [5. Recording the project version from a file](chapter-06/recipe-05/README.md)
-- [6. Recording the Git hash at configure time](chapter-06/recipe-06/README.md)
-- [7. Recording the Git hash at build time](chapter-06/recipe-07/README.md)
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
-### [Chapter 7: Structuring Projects](chapter-07/README.md)
-
-- [1. Code reuse with functions and macros](chapter-07/recipe-01/README.md)
-- [2. Splitting CMake sources into modules](chapter-07/recipe-02/README.md)
-- [3. Writing a function to test and set compiler flags](chapter-07/recipe-03/README.md)
-- [4. Defining a function or macro with named arguments](chapter-07/recipe-04/README.md)
-- [5. Redefining functions and macros](chapter-07/recipe-05/README.md)
-- [6. Deprecating functions, macros, and variables](chapter-07/recipe-06/README.md)
-- [7. Limiting scope with `add_subdirectory`](chapter-07/recipe-07/README.md)
-- [8. Avoiding global variables using `target_sources`](chapter-07/recipe-08/README.md)
-- [9. Organizing Fortran projects](chapter-07/recipe-09/README.md)
-
-
-### [Chapter 8: The Superbuild Pattern](chapter-08/README.md)
-
-- [1. Using the superbuild pattern](chapter-08/recipe-01/README.md)
-- [2. Managing dependencies with a superbuild: I. The Boost libraries](chapter-08/recipe-02/README.md)
-- [3. Managing dependencies with a superbuild: II. The FFTW library](chapter-08/recipe-03/README.md)
-- [4. Managing dependencies with a superbuild: III. The Google Test framework](chapter-08/recipe-04/README.md)
-- [5. Managing your project as a superbuild](chapter-08/recipe-05/README.md)
-
-
-### [Chapter 9: Mixed-language Projects](chapter-09/README.md)
-
-- [1. Building Fortran projects that use C/C++ libraries](chapter-09/recipe-01/README.md)
-- [2. Building C/C++ projects that use Fortran libraries](chapter-09/recipe-02/README.md)
-- [3. Building C++ and Python projects using Cython](chapter-09/recipe-03/README.md)
-- [4. Building C++ and Python projects using Boost.Python](chapter-09/recipe-04/README.md)
-- [5. Building C++ and Python projects using pybind11](chapter-09/recipe-05/README.md)
-- [6. Mixing C, C++, Fortran, and Python using Python CFFI](chapter-09/recipe-06/README.md)
-
-
-### [Chapter 10: Writing an Installer](chapter-10/README.md)
-
-- [1. Installing your project](chapter-10/recipe-01/README.md)
-- [2. Generating export headers](chapter-10/recipe-02/README.md)
-- [3. Exporting your targets](chapter-10/recipe-03/README.md)
-- [4. Installing a superbuild](chapter-10/recipe-04/README.md)
-
-
-### [Chapter 11: Packaging Projects](chapter-11/README.md)
-
-- [1. Generating source and binary packages](chapter-11/recipe-01/README.md)
-- [2. Distributing a C++/Python project built with CMake/pybind11 via PyPI](chapter-11/recipe-02/README.md)
-- [3. Distributing a C/Fortran/Python project built with CMake/CFFI via PyPI](chapter-11/recipe-03/README.md)
-- [4. Distributing a simple project as Conda package](chapter-11/recipe-04/README.md)
-- [5. Distributing a project with dependencies as Conda package](chapter-11/recipe-05/README.md)
-
-
-### [Chapter 12: Building Documentation](chapter-12/README.md)
-
-- [1. Building documentation using Doxygen](chapter-12/recipe-01/README.md)
-- [2. Building documentation using Sphinx](chapter-12/recipe-02/README.md)
-- [3. Combining Doxygen and Sphinx](chapter-12/recipe-03/README.md)
-
-
-### [Chapter 13: Alternative Generators and Cross-compilation](chapter-13/README.md)
-
-- [1. Cross-compiling a hello world example](chapter-13/recipe-01/README.md)
-- [2. Cross-compiling a Windows binary with OpenMP parallelization](chapter-13/recipe-02/README.md)
-
-
-### [Chapter 14: Testing Dashboards](chapter-14/README.md)
-
-- [1. Deploying tests to the CDash dashboard](chapter-14/recipe-01/README.md)
-- [2. Reporting test coverage to the CDash dashboard](chapter-14/recipe-02/README.md)
-- [3. Using the AddressSanitizer and reporting memory defects to CDash](chapter-14/recipe-03/README.md)
-- [4. Using the ThreadSanitizer and reporting data races to CDash](chapter-14/recipe-04/README.md)
-
-
-### [Chapter 15: Porting a Project to CMake](chapter-15/README.md)
